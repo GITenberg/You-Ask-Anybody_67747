@@ -1,5 +1,8 @@
 _repo: You-Ask-Anybody_67747
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67747-h/images/cover.jpg
 creator:
   author:
     agent_name: Bower, B. M.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/275
     wikipedia: https://en.wikipedia.org/wiki/B._M._Bower
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67747#You-Ask-Anybody
 gutenberg_issued: '2022-04-01'
 identifiers:
   gutenberg: '67747'
